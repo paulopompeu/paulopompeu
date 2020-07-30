@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# <img src="https://pro2-bar-s3-cdn-cf3.myportfolio.com/c85ae5f7-39e2-4c02-9d15-ff643e8f7961/ec2178c6-f9a2-415e-b7de-2ece365a68c3_rw_600.gif" width="100">
 My name is Paulo Pompeu (🇧🇷). I've been working as Software Engineer since ... for a while 😆
 
 I'm and currently working on a plataform to help ppl to build software with #NoCode. And it's amazing! 
@@ -18,7 +19,7 @@ Would you like to find me?
 
 <!--
 **paulopompeu/paulopompeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# <img src="https://cdn.discordapp.com/attachments/616042868750024825/737838312521334814/supermario.gif" width="50">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
